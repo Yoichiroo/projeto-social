@@ -40,7 +40,7 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 267px;
+    width: 266px;
     height: 471px;
 }
 
@@ -49,7 +49,6 @@ iframe#tela {
     flex-direction: column;
     align-items: flex-end;
 }
-
 
 .redes {
     border-radius: 50%;
@@ -65,3 +64,4 @@ iframe#tela {
     transform: translate(-3px, -3px);
     box-shadow: 5px 5px 5px rgb(0, 0, 0.400);
 }
+
